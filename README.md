@@ -10,9 +10,3 @@ I'm Gervanna (she/her) and I'm a learner in the programming space right now. I h
 You can reach me at gstephcodes@gmail.com or over on twitter [@GStephcodes](https://twitter.com/GStephcodes)
 
 *Thanks for stopping by.*
-
-
-
-<!--
-**gervanna/gervanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
